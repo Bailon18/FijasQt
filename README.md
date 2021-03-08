@@ -1,1 +1,1 @@
-# Metodo de Widgets de PySide2
+# Metodo de Widgets de PySide2 
